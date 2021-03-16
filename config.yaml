@@ -1,0 +1,17 @@
+baseURL: ''
+languageCode: en-us
+title: Sodium
+theme: hugo-sodium-theme
+taxonomies:
+  category: categories
+  tag: tags
+params:
+  social:
+    facebook: uicardio
+    instagram: uicardio
+    twitter: uicardio
+  scripts:
+    googleanalytics: null
+    disqus: null
+themesDir: themes
+publishDir: public
